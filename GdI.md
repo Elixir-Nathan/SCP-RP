@@ -1,4 +1,4 @@
-**Définition d'un GdI :** Certains sont des organisations rivales, d'autres sont des groupes dissidents de la Fondation, d'autres encore sont des associés auxquels la Fondation a octroyé sa confiance.
+**Définition d'un GdI :** Certains sont des organisations rivales, d'autres sont des groupes dissidents de la Fondation, d'autres encore sont des associés auxquels la Fondation a octroyé sa confiance, tous sont investi dans le paranormal et le métaphysique.
 
 ### [GdI](http://fondationscp.wikidot.com/groups-of-interest)
 
