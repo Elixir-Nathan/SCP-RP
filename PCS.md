@@ -139,17 +139,19 @@ Une secte d’un petit nombre d'hommes qui prétendaient être les «Thuggees» 
 
 SCP-060-FR doit être confiné dans une cellule pour humanoïde standard
 
-Le confinement doit être maintenue a une température de 25°C.
+La cellule ne doit posséder ni fenêtre, ni conduit de ventilation, et doit être scellée hermétiquement. De plus, celle-ci doit être éclairée en permanence et sa température doit être maintenue au-dessus de vingt-cinq (25) degrés Celsius.
 
 Le seul accès à la cellule doit être fermé à l'aide d'une porte en acier blindé dont la face intérieure doit être recouverte d'une plaque d'électrum1 de cinq (5) centimètres d'épaisseur
-
-Il faut vérifier que le confinement n'est aucune faille, qu'il soit hermétiquement fermer ainsi qu'illuminer.
 
 Vérifier que l'unité robotiser de classe DRAGON présent a l'intérieur de la cellule doit être présent
 
 Les psalmodies provenant de la cellule de SCP-060-FR doivent être considérées comme tout à fait normales. Si celles-ci venaient à s'arrêter, cela signifierait que l'entité a réussi à s'échapper ou qu'un Événement EV-060-α est sur le point de se produire.
 
+Un minimum de deux (2) gardes armés de lance-flammes M2 doit être présent en permanence à proximité de la cellule de SCP-060-FR. Toutes les instances de SCP-060-FR-1 et -2 doivent être immédiatement détruites par le feu et leurs restes doivent être jetés dans l'incinérateur prévu à cet effet.
+
 SCP-060-FR possède la capacité de faire varier la température de l'air de zéro (0) à -2██ degrés Celsius à volonté dans un rayon de cinq (5) mètres autour de lui.
+
+Suite à l'Incident 060-EV-01, un sas de quinze (15) mètres de long doit être aménagé à l'entrée de la cellule de SCP-060-FR dans le but de diminuer les risques de brèches de confinement.
 
 Il a aussi été observé que SCP-060-FR possède la capacité de se faufiler dans tous les types d'ouvertures peu importe leur taille ou leur forme.
 
