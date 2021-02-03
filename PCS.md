@@ -137,11 +137,27 @@ Une secte d’un petit nombre d'hommes qui prétendaient être les «Thuggees» 
 
 # [SCP-060-FR](http://fondationscp.wikidot.com/scp-060-fr)
 
+SCP-060-FR doit être confiné dans une cellule pour humanoïde standard
+
 Le confinement doit être maintenue a une température de 25°C.
+
+Le seul accès à la cellule doit être fermé à l'aide d'une porte en acier blindé dont la face intérieure doit être recouverte d'une plaque d'électrum1 de cinq (5) centimètres d'épaisseur
 
 Il faut vérifier que le confinement n'est aucune faille, qu'il soit hermétiquement fermer ainsi qu'illuminer.
 
-Vérifier la présnce de deux utnité robotique de combat de classe DRAGON
+Vérifier que l'unité robotiser de classe DRAGON présent a l'intérieur de la cellule doit être présent
+
+Les psalmodies provenant de la cellule de SCP-060-FR doivent être considérées comme tout à fait normales. Si celles-ci venaient à s'arrêter, cela signifierait que l'entité a réussi à s'échapper ou qu'un Événement EV-060-α est sur le point de se produire.
+
+SCP-060-FR possède la capacité de faire varier la température de l'air de zéro (0) à -2██ degrés Celsius à volonté dans un rayon de cinq (5) mètres autour de lui.
+
+Il a aussi été observé que SCP-060-FR possède la capacité de se faufiler dans tous les types d'ouvertures peu importe leur taille ou leur forme.
+
+À noter que son contrôle sur ces deux capacités est fortement diminué lorsque la température ambiante dépasse vingt-cinq (25) degrés Celsius.
+
+SCP-060-FR est fortement affecté négativement par l'or et l'argent
+
+Le meilleur moyen de repousser SCP-060-FR et de détruire les instances de SCP-060-FR-1 est le feu.
 
 # [SCP-027-CT](http://sandbox-scp-lambda.wikidot.com/scp-027-ct)
 
