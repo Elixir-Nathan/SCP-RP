@@ -1,3 +1,43 @@
+### Aucun confinement
+
+# [SCP-006-CT](http://scp-sandbox-3.wikidot.com/riley-nutsy-006-ct)
+
+SCP-006-CT doit être contenu dans un domicile pour humanoïde standard au Site Koppa.
+
+Le sujet n'est en aucun cas autorisé à sortir de la salle de confinement de nuit ou hors du Site.
+
+Cependant, en raison d’un contrat signé avec la Fondation assurant sa coopération avec cette dernière, SCP-006-CT est autorisé à se déplacer librement en LCZ avec un minimum d’un (1) agent de sécurité pour assurer sa surveillance.
+
+Si SCP-006-CT venait à entrer en infraction avec les règles qui lui ont été imposées, le personnel assigné à sa sécurité devra procéder à sa mise en isolement afin de lui administrer un amnésique de Classe-A.
+
+En cas d’événements pouvant mettre SCP-006-CT en danger, ou pouvant mener à sa dégradation, il devra être évacué en lieu sûr par le personnel de sécurité désigné à cet effet.
+
+En raison des recherches actuelles sur les propriétés de SCP-006-CT faites par le Département Scientifique, toute tentative de dégradation, ou de destruction de l’anomalie sont interdites.
+
+Si jamais SCP-006-CT venait à être blessé, il devra être soigné par le personnel médical de la Fondation assigné à ses soins personnels.
+
+SCP-006-CT est un homme d’origine française ayant été exposé aux propriétés anormales de SCP-738 lors d’une expérimentation.
+
+Ce dernier semble être entièrement invincible en raison de ses capacités de régénération extrêmes et ne peut s’empêcher de faire un doigt d’honneur à n’importe quel membre du personnel du Site sans aucune raison valable constamment.
+
+Toutes tentatives d’éliminations par balles, par intoxications, par étouffement et par brûlures ont échouées.
+
+Cependant, son invincibilité lui garantit une protection certaine contre la mort, mais pas contre la douleur
+
+# [SCP-527](http://fondationscp.wikidot.com/scp-527)
+
+SCP-527 doit être contenu dans un domicile pour humanoïde standard
+
+Aucune autre procédure de confinement n'est nécessaire.
+
+SCP-527 est un humanoïde mâle mesurant 1,67m, il est biologiquement normal, à l’exception de sa tête qui est celle d'un Puntius semifasciolatus, ou Barbus doré.
+
+SCP-527 ne montre aucune autre propriété anormale.
+
+La tête de SCP-527 fonctionne de la même manière qu'une tête humaine normale. SCP-527 est capable de communiquer comme un humain typique. Le tatouage "M. Poisson, des Petits Messieurs® par Dr Wondertainment" apparaît sur le bas de son pied gauche.
+
+SCP-527 a été découvert à Boston par des agents de la Fondation en 2004.
+
 ### LCZ
 
 # [SCP-1123](http://fondationscp.wikidot.com/scp-1123)
@@ -23,6 +63,7 @@ Cet fugure a comme éffet :
 
 Pendant cet jugure, le sujet perdera toute connaisance de son identité antérieure.
 
+
 # [SCP-914](http://fondationscp.wikidot.com/scp-914)
 
 Toute expérience doivent soumettre une demande officielle. Seul les membre recevant l'approbation de la Direction du Site peuvent exploiter SCP-914
@@ -40,6 +81,113 @@ SCP-914 est extrêmenent complexe avec plus de huit millions de pièce mobiles c
 Deux grand compartiments de 3m par 2.1m par 2.1m, intitulés "Entrée" et "Sortie", son reliés par des tubes en cuivre jusqu'au corps principal de SCP-914.
 
 Le processus dure cinq à dix minutes selon la taille de l'objet à raffiner.
+
+# [SCP-999](http://fondationscp.wikidot.com/scp-999)
+
+SCP-999 est autorisé à se promener librement dans le site si il le désire, mais doit sinon rester dans son confinement.
+
+Le sujet n'est en aucun cas autorisé à sortir de la salle de confinement de nuit ou hors du site.
+
+La salle de confinement de SCP-999 doit être gardée propre et sa nourriture doit être remplacée deux fois par jour.
+
+Tout le personnel du site est autorisé à accéder à la chambre de confinement de SCP-999, mais seulement s'ils ne sont pas affectés à d'autres tâches, ou si ils sont en pause.
+
+SCP-999 semble être une masse importante, amorphe, gélatineuse de vase orange translucide, pesant environ 54 kg (120 lb) avec une consistance similaire à celle du beurre de cacahuète.
+
+La composition de SCP-999 est à base d'huile, mais consiste en une substance inconnue de la science moderne. À part une mince membrane transparente entourant la masse orange, le sujet ne semble pas avoir d’organe à proprement parler.
+
+Le simple fait de toucher la surface de SCP-999 provoque une euphorie immédiate, qui s’intensifie à la longue exposition à SCP-999, et dure longtemps après sa séparation de la créature.
+
+Alors que la créature va interagir avec n'importe qui, elle semble avoir un intérêt particulier pour ceux qui sont malheureux ou blessés de quelque manière que ce soit.
+
+En plus de son comportement espiègle, SCP-999 semble aimer tous les animaux (en particulier les humains), refusant de manger de la viande et mettant même sa vie en péril pour sauver les autres
+
+L’alimentation de la créature est entièrement composée de bonbons et de friandises, les biscuits M & M’s et Necco ™ étant ses favoris. Ses méthodes d'alimentation sont similaires à celles d'une amibe.
+
+Les seuls zones accésible a SCP-999 sont les zones non accréditer
+
+# [SCP-131](http://fondationscp.wikidot.com/scp-131)
+
+Aucune consigne de sécurité particulière n'est prise avec SCP-131-A et SCP-131-B. Ils sont libres de se déplacer sur la Zone Koppa tant qu'ils ne cherchent pas à pénétrer dans les zones d'accès restreint ou à tenter de quitter l'établissement.
+
+Un contact occasionnel avec les sujets est permis, mais il est recommandé que ces contacts soient maintenus au minimum afin d'éviter que les créatures ne s'attachent au personnel.
+
+La présence de SCP-131-A et SCP-131-B à l'intérieur de la Zone Koppa doit être vérifiée une fois par heure, et la Fondation doit s'assurer qu'ils ne se trouvent pas dans un endroit non autorisé.
+
+Le cas échéant, constitue une situation d'alerte de niveau 1, et les portes correspondantes devront être verrouillées au plus vite.
+
+Tout rapport d'abus ou de mauvais traitements infligés aux SCP-131 sera sanctionné par une sévère réprimande.
+
+SCP-131-A et SCP-131-B sont une paire de créatures en forme de larme d'environ 30 cm de hauteur, avec un unique œil bleu au milieu de leur corps.
+
+SCP-131-A est de couleur orange brûlé tandis que SCP-131-B est de couleur jaune moutarde.
+
+À la base de chaque créature se trouve une saillie en forme de roue qui leur sert de moyen de locomotion, ce qui suggère que ces créatures peuvent avoir une origine biomécaniques. Les sujets peuvent se déplacer de manière étonnamment rapide, couvrant plus de 60 m en une poignée de secondes.
+
+Les sujets, cependant, n'ont pas de système de freinage
+
+Les sujets ont également montré une capacité à monter sur des surfaces abruptes
+
+Les sujets semblent avoir l'intelligence de chats domestiques communs et sont insatiablement curieux. La plupart du temps, ils roulent autour de l'installation, en observant le personnel au travail et jettent un coup d'œil à d'autres SCP de classe Sûr.
+
+Bien que curieux, les sujets peuvent sentir le danger dans leur voisinage, et si l'objet de leur liaison commence à approcher de quelque chose qu'ils inscrivent comme dangereux (par exemple, des objets de classe Euclide ou Keter), ils se placeront autour des pieds de leur compagnon (ou sur les extrémités appropriées) tout en babillant d'un ton paniqué, comme pour les avertir.
+
+Si les sujets sont ignorés par leur cible assez longtemps, ils finiront par perdre tout intérêt et retourner à leurs activités normales.
+
+Il convient de noter que les sujets ne nécessitent aucun entretien de la part du personnel du site
+
+Les sujets SCP-131-A et SCP-131-B ont été trouvés dans un champ de maïs en dehors de ████████████ en l'an 19██.
+
+# [SCP-011-CT](http://sandbox-scp-lambda.wikidot.com/scp-011-ct)
+
+SCP-011-CT est actuellement contenue sur le Site-011-E2, entourant la totalité du lac ████. La couverture officielle du site est la suivante : “Le complexe 011-A2 est un site d’étude des eaux montagneuses et des espèces vivantes dans ces derniers”.
+
+Une instance de SCP-011-CT est actuellement contenue dans le bassin A-2 du laboratoire de recherche aquatique du Site Koppa.
+En cas d’activité anormale abusive le lockdown du laboratoire doit-être immédiatement mis en place.
+
+SCP-011-CT est une eau d’une couleur bleu cyan qui, à première vue, est totalement normale mais, tout les mercredis, samedis et dimanches de ~14h à ~18h, SCP-011-CT prend une couleur Or.
+
+Si un objet est plongé dans SCP-011-CT durant cette période, ce dernier disparaîtra systématiquement sous l'eau. SCP-011-CT se met ensuite à briller d'un or éclatant. Il semble que c'est à ce moment là que l'objet change de forme pour devenir un minerai dit "précieux".
+
+Si un être vivant est plongé dans SCP-011-CT durant cette période, ce dernier décédera d’une manière inconnue avant de disparaître dans le fluide. Le fluide prend ensuite une couleur rouge sang et la pièce devient extrêmement sombre avant de créer de multiples instances hostiles nommée SCP-011-CT-A.
+
+SCP-011-CT-A est une entité se présentant sous différentes formes. Cette entité est doté d'une conscience et semble avoir un niveau d’intelligence accrue.
+
+Elle comprend des phrases relativement complexe le temps qu'elle connais les principes exprimées dans cette dernières. Cependant, l'entité n'a pour le moment pas communiqué avec le personnel avec un langage "classique" mais s'exprime uniquement sous forme de grognement.
+
+De plus, SCP-011-CT-A semble totalement passif le temps que ce dernier n'est pas menacé ou contrarié.
+
+Le premier signalement de SCP-011-CT fut le ██/██/20██ au niveau du lac ████,████, Colorado, Etats-Unis, alors que des promeneurs se baladait hors des pistes balisés.
+
+Un agent des affaires extérieures informa alors le reste de la Fondation, s’en suivit l’arrivée des Forces d’Intervention Mobile et l'extermination des SCP-011-CT-A. Au vue de la taille du lac ████, et de l’incapacité à déplacer la totalité des instances de SCP-011-CT, le Site-011-E2 fut construit autour de ce dernier.
+
+# [SCP-012-CT](http://sandbox-scp-lambda.wikidot.com/scp-012-ct)
+
+SCP-012-CT sont actuellement contenues sur le Site-012-B1, entourant le marécage infecté par SCP-012-CT-1. La couverture officielle du Site étant un centre de traitement des eaux usées.
+
+Des spécimens mâles et femelles de SCP-012-CT sont actuellement contenues dans le Bassin A-3 du Laboratoire Aquatique du Site Koppa. En cas de contamination/fuite de SCP-012-CT-A, le lockdown du laboratoire doit-être immédiatement mis en place.
+
+SCP-012-CT est une espèce aquatique similaire au plancton trouvé dans un marécage aux alentours de ████ au Canada.
+
+SCP-012-CT sécrète un liquide noir dénommés SCP-012-CT-A, tout fluide touché par ce dernier deviendra progressivement de la même couleur.
+
+Tout individu se tenant autour de SCP-012-CT ressentira une soif subite ainsi qu’une envie de consommer SCP-012-A.
+
+Si un individu boit le liquide en questions, une série de symptôme dont :
+
+	- fièvre
+	- maux de tête
+	- fatigue
+	- éruption cutanée
+	- nausées et vomissements
+	- diarrhée
+	- hémorragie
+	- arrêt des organes
+causerons la mort du sujet.
+
+Une fois la mort de l'individu ayant absorbé SCP-012-CT-A, le cadavre se dissolu laissant une flaque noir derrière lui, cette dernière étant une instance de SCP-012-CT-A, qui disparaitra au bout de 57 Minutes à température ambiante.
+
+SCP-012-CT possède une capacités de fécondité très élevée, c’est donc pour ça que la FIM Eta-9 (“Petite bête”) est à la recherche de toute espèces de SCP-012-CT.
 
 # [SCP-178](http://fondationscp.wikidot.com/scp-178)
 
