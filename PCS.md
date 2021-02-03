@@ -77,6 +77,23 @@ SCP-714 doit être entreposé dans un casier de sécurité renforcé qui doit ê
 
 Il doit être retenu à l'intérieur d'un générateur ne devant pas être relié au système électrique principal. Le confinement doit posséder son propre réseau électrique afin de limiter l'avancée de l'entité en cas de brèche de confinement.
 
+SCP-030-CT semble être une entité consciente extrêmement dangereuse et hostile, pouvant manipuler et se déplacer dans n'importe quelle objet ou matériaux conducteur d'électricité, ainsi que dans n'importe quelle réseau électrique.
+
+SCP-030-CT est capable d'envoyer une surcharge électrique pouvant aller de 1 à 150 000V capable de détruire ou de tuer n'importe quelle objet ou individu en contact ou relié au réseau électrique sur lequel SCP-030-CT est présent.
+
+Lorsque SCP-030-CT se déplace dans un réseau électrique, avec des lumières connecté à celui-ci, ces dernières commenceront à clignoter au moment au SCP-030-CT se déplace à proximité d'elles, ce qui est utile afin de le localiser.
+
+SCP-030-CT à tout moment, peut entrer en phase PAUSANIAS. La phase PAUSANIAS consiste à SCP-030-CT de "s'élargir" et de "contaminer" tout un réseau électrique en peu de temps, ce qui lui permet de contrôler tout un réseau électrique simultanément. Durant la phase PAUSANIAS, SCP-030-CT à aussi la possibilité, avec une méthode toujours inconnu, de s'introduire sur les autre réseaux électrique, même si ceci ne sont pas relié physiquement au réseau sur lequel SCP-030-CT à prit le contrôle.
+
+	● Statut bleu : L'entité vient d'entrer en phase PAUSANIAS, elle s'étend rapidement et la situation doit être prise en charge immédiatement.
+	● Statut jaune : La phase PAUSANIAS est à moyenne échelle (plusieurs villes), et passera en statut rouge si la situation n'est pas gérée.
+	● Statut rouge : La phase PAUSANIAS est à grande échelle (pays) et contamine de plus en plus de réseau électrique. La remise en confinement de l'entité est une priorité.
+	● Statut noir : La phase PAUSANIAS à prit des proportions gigantesque à extrêmement grande échelle (quasi-totalité d'un continent voire le monde entier). La situation est critique.
+
+En cas de brèche de confinement de SCP-030-CT, ce dernier doit être attiré vers un système ou un objet électrique, et les câbles servant à relier l'objet en question au réseau électrique sur lequel SCP-030-CT se trouve, devront être désactivés, afin d'immobiliser l'entité.
+
+Afin de déterminer si l'entité est à l'intérieur d'un objet électrique, une batterie vide ou tout autre objet électrique similaire, devant être branché à un voltmètre, doit être relié au générateur sur lequel SCP-030-CT est présent. Si les valeurs du voltmètre augmente et se stabilise, l'entité est entré à l'intérieur de la batterie.
+
 # [SCP-173](http://fondationscp.wikidot.com/scp-173)
 
 L'article SCP-173 doit être conservé dans un conteneur verrouillé en tout temps. Lorsque le personnel doit entrer dans le conteneur de SCP-173, pas moins de trois peuvent entrer à tout moment et la porte doit être verrouillée derrière eux. 
@@ -143,7 +160,7 @@ La cellule ne doit posséder ni fenêtre, ni conduit de ventilation, et doit êt
 
 Le seul accès à la cellule doit être fermé à l'aide d'une porte en acier blindé dont la face intérieure doit être recouverte d'une plaque d'électrum1 de cinq (5) centimètres d'épaisseur
 
-Vérifier que l'unité robotiser de classe DRAGON présent a l'intérieur de la cellule doit être présent
+Vérifier que l'unité robotiser de classe DRAGON présent a l'intérieur de la cellule doit être présent. Celle-ci doit subir une maintenance toutes les semaines et être remplacée si nécessaire.
 
 Les psalmodies provenant de la cellule de SCP-060-FR doivent être considérées comme tout à fait normales. Si celles-ci venaient à s'arrêter, cela signifierait que l'entité a réussi à s'échapper ou qu'un Événement EV-060-α est sur le point de se produire.
 
