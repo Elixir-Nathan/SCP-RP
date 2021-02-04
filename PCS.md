@@ -183,6 +183,7 @@ Si un individu boit le liquide en questions, une série de symptôme dont :
 	- diarrhée
 	- hémorragie
 	- arrêt des organes
+
 causerons la mort du sujet.
 
 Une fois la mort de l'individu ayant absorbé SCP-012-CT-A, le cadavre se dissolu laissant une flaque noir derrière lui, cette dernière étant une instance de SCP-012-CT-A, qui disparaitra au bout de 57 Minutes à température ambiante.
